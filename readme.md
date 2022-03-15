@@ -1,10 +1,23 @@
-# Ing. Alberto Cruz Galvan (en proceso)
-## Bienvenido a mi repositorio de Git Hub
+#Alberto Cruz
+## Software Engineer (still in process)
 
-Primera prueba, para construir carta de presentación.
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+####Overview
+```java
+public class Main{
+	public static void main(String args[]){
+		System.out.println("Hello world!");
+		System.out.println("Welcome to my Alberto's repository");
+	}
+}
+```
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+```sql
+SELECT * FROM Alberto;
+```
 
+### About me
+Hello everyone!! 
+I am 24 years old and I love software engineering topics and coding a lot.
+Feel free to check out all my projects. I am learning every day as much as possible.
 
