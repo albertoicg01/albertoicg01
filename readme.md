@@ -1,12 +1,12 @@
-#Alberto Cruz
+# Alberto Cruz
 ## Software Engineer (still in process)
 
-####Overview
+#### Backend Developer
 ```java
 public class Main{
 	public static void main(String args[]){
 		System.out.println("Hello world!");
-		System.out.println("Welcome to my Alberto's repository");
+		System.out.println("Welcome to Alberto's repository");
 	}
 }
 ```
